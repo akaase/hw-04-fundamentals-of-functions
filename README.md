@@ -1,5 +1,7 @@
 # Assignment: FUNdamentals of FUNctions
 
+**Due:** XXX
+
 In this homework, you will practice these concepts we've covered in class:
 
 * Defining FUNctions
@@ -12,7 +14,7 @@ In this homework, you will practice these concepts we've covered in class:
 1. **Fork** the assignment repo
 1. **Clone** your fork of the assignment repo
 1. **Commit** any changes
-1. **Push** the changes to Github when you are done
+1. **Push** to Github when you are done
 
 ## Submitting
 

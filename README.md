@@ -131,6 +131,8 @@ print('Well done everyone!')
 * There can be multiple possible ways to solve this problem! But if you're stuck, some **hints** are provided below
 * Try to open only one hint at a time!
 
+#### For the purposes of this this assignment, do not use a list!
+
 ### (Spoiler Alert)
 
 <details>
